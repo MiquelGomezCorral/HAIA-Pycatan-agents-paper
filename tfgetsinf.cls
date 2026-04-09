@@ -123,7 +123,7 @@
 
 \addto\captionsspanish{%
      \renewcommand{\titulacioname}{Máster Universitario en Inteligencia Artificial, Reconocimiento de Formas e Imagen Digital}
-     \renewcommand{\tfgname}{TRABAJO Tecnologías del Lenguaje Humano}
+     \renewcommand{\tfgname}{Herramientas y Aplicaciones de la Inteligencia Artificial}
      \renewcommand{\authorname}{}
      \renewcommand{\tutorname}{Tutor}
      \renewcommand{\coursename}{}
